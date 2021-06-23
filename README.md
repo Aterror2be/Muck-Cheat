@@ -10,9 +10,9 @@ Resource Esp + [Health]
 Snapline Esp  
 Snapline Position: Bottom/Center  
 FlyHack + [Bind F1]  
-PickUpAll  
-AttackStats + [Bind F3]  
+PickUpAll   
 GodMode + [Bind F2]  
+AttackStats + [Bind F3] 
 Infinate Stamina  
 Infinate Food  
 SpeedHack + [Bind F4]  
