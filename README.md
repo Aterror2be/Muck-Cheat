@@ -3,8 +3,8 @@ This is a simple mono internal for the steam game Muck
 
 # Features
 
-Player Esp + [Distance]
-Mob Esp + [Distance]
+Player Esp + [Distance] \n
+Mob Esp + [Distance] /n
 Tree Esp + [Health]
 Resource Esp + [Health]
 Snapline Esp
