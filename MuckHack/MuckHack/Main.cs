@@ -151,7 +151,7 @@ namespace MuckHack
 				}
 			}
 
-			if(mobteleporthit && Input.GetKey(KeyCode.Mouse2))
+			if(mobteleporthit && Input.GetKey(KeyCode.Mouse0))
             {
 				foreach (Mob mob1 in UnityEngine.Object.FindObjectsOfType(typeof(Mob)) as Mob[])
 				{
