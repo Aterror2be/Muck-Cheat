@@ -29,7 +29,7 @@ Toggles Menu Key Is [Delete]
 
 # Links
 
-Download    :  Waiting Approval...
+Download    :  Waiting Approval...  
 Demo Video  :  https://youtu.be/ExeaQiZEyrA
 
 # Injector
