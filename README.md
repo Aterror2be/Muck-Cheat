@@ -5,32 +5,32 @@ This is a simple mono internal for the steam game Muck
 
 Player Esp + [Distance]  
 Mob Esp + [Distance]  
-Tree Esp + [Health]
-Resource Esp + [Health]
-Snapline Esp
-Snapline Position: Bottom/Center
-FlyHack + [Bind F1]
-PickUpAll
-AttackStats + [Bind F3]
-GodMode + [Bind F2]
-Infinate Stamina
-Infinate Food
-SpeedHack + [Bind F4]
-JumpHack + [Bind F5]
-MobTeleportHit
-BreakEverything + [Bind F6]
-SpawnBoss 
-FollowPlayer
-PingSpammer
+Tree Esp + [Health]  
+Resource Esp + [Health]  
+Snapline Esp  
+Snapline Position: Bottom/Center  
+FlyHack + [Bind F1]  
+PickUpAll  
+AttackStats + [Bind F3]  
+GodMode + [Bind F2]  
+Infinate Stamina  
+Infinate Food  
+SpeedHack + [Bind F4]  
+JumpHack + [Bind F5]  
+MobTeleportHit  
+BreakEverything + [Bind F6]  
+SpawnBoss   
+FollowPlayer  
+PingSpammer  
 
-Note:
-Menu Key is [Insert]
-Toggles Menu Key Is [Delete]
+Note:  
+Menu Key is [Insert]  
+Toggles Menu Key Is [Delete]  
 
 # Links
 
-Download    :
-Demo Video  :
+Download    :  
+Demo Video  :  
 
 # Injector
 
