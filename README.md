@@ -27,13 +27,18 @@ Note:
 Menu Key is [Insert]
 Toggles Menu Key Is [Delete]
 
+#Links
+
 Download    :
 Demo Video  :
+
+# Injector
 
 To use this cheat you will need to install any mono injector of your choise for this I used SharpInjector 2.3 by wh0am1 Mod which can be downloaded here. 
 Injector: https://www.unknowncheats.me/forum/downloads.php?do=file&id=31184
 
-Injection Steps:
+# Injection-Steps
+
 1. Open injector
 2. Open Muck
 3. Refresh injector
