@@ -4,24 +4,37 @@ This is a simple mono internal for the steam game Muck
 # Features
 
 Player Esp + [Distance]  
-Mob Esp + [Distance]  
-Tree Esp + [Health]  
-Resource Esp + [Health]  
-Snapline Esp  
-Snapline Position: Bottom/Center  
-FlyHack + [Bind F1]  
-PickUpAll   
-GodMode + [Bind F2]  
-AttackStats + [Bind F3] 
-Infinate Stamina  
-Infinate Food  
-SpeedHack + [Bind F4]  
-JumpHack + [Bind F5]  
-MobTeleportHit  
-BreakEverything + [Bind F6]  
-SpawnBoss   
-FollowPlayer  
+Player Chams  
+Mob Esp + [Distance]    
+Mob Chams  
+Tree Esp + [Health]   
+Resource Esp + [Health]   
+Ground Items Chams  
+Shrine Esp + [Distance]  
+Snapline Esp    
+Snapline Position: Bottom/Center    
+Aimbot + [Bind Mouse 1]  
+DrawFov  
+AttackStats + [Bind F3]  
+MobTeleportHit + [Bind Mouse 0]  
+FlyHack + [Bind F1]    
+PickUpAll     
+GodMode + [Bind F2]     
+Infinate Stamina    
+Infinate Food    
+SpeedHack + [Bind F4]    
+JumpHack + [Bind F5]   
+Raycast Teleport + [Bind F]   
+Instant Revive  
+Fov Changer  
+BreakEverything + [Bind F6]    
+SpawnBoss    
+FollowPlayer    
 PingSpammer  
+No Grass  
+Free Respawn  
+Time Changer  
+ItemGenerator + [Ammount]  
 
 Note:  
 Menu Key is [Insert]  
@@ -39,13 +52,14 @@ Injector: https://www.unknowncheats.me/forum/downloads.php?do=file&id=31184
 
 # Injection-Steps
 
-1. Open injector
-2. Open Muck
-3. Refresh injector
-4. Set Name Space  as:  Loader
-5. Set Class Name  as:  Load
-6. Set Method Name as:  CreateGameObject
-7. Inject!
+1. Open injector  
+2. Open Muck  
+3. Select the DLL  
+5. Set Name Space  as:  Loader  
+6. Set Class Name  as:  Load  
+7. Set Method Name as:  CreateGameObject  
+8. Refresh injector  
+9. Inject!  
 
 # Menu
 
