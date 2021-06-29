@@ -49,4 +49,4 @@ Injector: https://www.unknowncheats.me/forum/downloads.php?do=file&id=31184
 
 # Menu
 
-![alt text](https://github.com/Aterror2be/Muck-Cheat/blob/main/Images/Screenshot%202021-06-23%20112654.png)
+![alt text](https://github.com/Aterror2be/Muck-Cheat/blob/main/images/Screenshot%202021-06-28%20201732.png)
