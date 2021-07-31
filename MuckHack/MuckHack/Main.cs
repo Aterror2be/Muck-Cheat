@@ -280,7 +280,7 @@ class Main : MonoBehaviour
 		}
 
 	}
-
+//yandere dev moment
     public void OnGUI()
 	{
 		if (Main.flyhack)
